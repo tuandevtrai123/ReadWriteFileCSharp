@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8F79C7AC-77FF-4F4F-884B-75508C6360B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReadnWriteFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadnWriteFile/Program.cs">
+    <Files>
+      <File FileName="ReadnWriteFile/Program.cs" Line="25" Column="10" />
+      <File FileName="ReadnWriteFile/Entities/Product.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReadnWriteFile" expanded="True">
+            <Node name="ReadnWriteFile" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
