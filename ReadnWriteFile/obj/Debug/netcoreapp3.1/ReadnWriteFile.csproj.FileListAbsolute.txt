@@ -3,10 +3,10 @@
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/bin/Debug/netcoreapp3.1/ReadnWriteFile.runtimeconfig.dev.json
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/bin/Debug/netcoreapp3.1/ReadnWriteFile.dll
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/bin/Debug/netcoreapp3.1/ReadnWriteFile.pdb
-/Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.csprojAssemblyReference.cache
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.AssemblyInfoInputs.cache
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.AssemblyInfo.cs
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.csproj.CoreCompileInputs.cache
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.dll
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.pdb
 /Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.genruntimeconfig.cache
+/Users/nguyengiatuan/Desktop/C#_APTECH/ReadnWriteFile/ReadnWriteFile/obj/Debug/netcoreapp3.1/ReadnWriteFile.csproj.AssemblyReference.cache
